@@ -1,0 +1,15 @@
+body {
+    background-color:palegoldenrod; 
+    font: 15px san-serif;
+}
+div {
+    border: solid;
+    border-width: thick;
+}
+
+img {
+    border-style: double;
+    border-width: thick;
+}
+
+
