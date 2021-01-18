@@ -12,4 +12,15 @@ img {
     border-width: thick;
 }
 
-
+.checked {
+    color: orange;
+}
+.site{
+    width: auto;
+}
+.rating{
+    width: 90px;
+}
+table, th, td {
+    border: 1px solid black;
+}
